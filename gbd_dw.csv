@@ -1,0 +1,29 @@
+"","description","dw","description_id"
+"1","Hearing loss: complete",0.215,1
+"2","Spinal cord lesion at neck level: treated",0.589,2
+"3","Dementia: mild",0.069,3
+"4","COPD and other chronic respiratory disease: severe",0.408,4
+"5","Diabetic neuropathy",0.133,5
+"6","Anemia: moderate",0.052,6
+"7","Asthma: partially controlled",0.036,7
+"8","Amputation of finger(s), excluding thumb: long term, with treatment",0.005,8
+"9","Cancer: diagnosis and primary therapy",0.288,9
+"10","Anxiety disorders: moderate",0.133,10
+"11","Distance vision: severe impairment",0.184,11
+"12","Asthma: controlled",0.015,12
+"13","Distance vision: moderate impairment",0.031,13
+"14","Stroke: long-term consequences, moderate",0.07,14
+"15","Musculoskeletal problems, legs: mild",0.023,15
+"16","Anxiety disorders: severe",0.523,16
+"17","Motor impairment: moderate",0.061,17
+"18","Major depressive disorder: moderate episode",0.396,18
+"19","Dementia: moderate",0.377,19
+"20","Hearing loss: moderate",0.027,20
+"21","Parkinson's disease: moderate",0.267,21
+"22","Decompensated cirrhosis of the liver",0.178,22
+"23","COPD and other chronic respiratory disease: mild",0.019,23
+"24","Acute myocardial infarction: days 3-28",0.074,24
+"25","Angina pectoris: moderate",0.08,25
+"26","Stroke: long-term consequences, severe plus cognition problems",0.588,26
+"27","Traumatic brain injury: long-term consequences, moderate, with or without treatment",0.231,27
+"28","Multiple sclerosis: severe",0.719,28
